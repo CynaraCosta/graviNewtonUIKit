@@ -22,7 +22,7 @@ Newton descobrindo a gravidade | PopUp de descoberta
 
 Newton RIP | PopUp de não descoberta 
 :-------------------------:|:-------------------------:
-<img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/rip.png" alt="Newton RIP" width="500" height="240">  | <img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/notfind.png" alt="Newton RIP" width="500" height="240"> 
+<img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/rip.png" alt="Newton RIP" width="500" height="240">  | <img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/notfind.png" alt="Newton nao descobriu" width="500" height="240"> 
 
 ## Frameworks 📚
 
